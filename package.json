@@ -1,6 +1,6 @@
 {
   "name": "protenzcalcsh",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Calcs ²",
   "main": "potenz.js",
   "scripts": {

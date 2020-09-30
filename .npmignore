@@ -2,3 +2,5 @@ node_modules
 potenz.js
 copys
 .gitignore
+.github
+.travis.yml

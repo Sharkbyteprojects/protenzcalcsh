@@ -1,3 +1,8 @@
+/*
+<c>Sharkbyteprojects
+Main App
+Better Than Math.pow
+*/
 function proten(basis: number, exponent: number): number {
   let numbertom: number = 0;
   if (exponent != 0) {

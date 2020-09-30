@@ -1,5 +1,7 @@
 # PotenCalc
 
+[![Travis CI](https://api.travis-ci.org/Sharkbyteprojects/protenzcalcsh.svg)](https://travis-ci.org/github/Sharkbyteprojects/protenzcalcsh)
+
 Use:
 
 - Get it with `npm i protenzcalcsh`
